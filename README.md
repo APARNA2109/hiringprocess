@@ -1,4 +1,4 @@
-this is my 4th Data Analysis Project
+This is my Data Analysis  mini Project
 This project has helped me to analyze data and understand the importance of data
 types, rows, and columns in data analysis.
 During the data analysis process, I identified and dealt with blank cells and non-value
